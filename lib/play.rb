@@ -38,8 +38,8 @@ end
 # Define your play method below
 def play(board)
   counter = 0
-  until counter == 9 <= until the 9 spuares filled up
+  until counter == 9 
     turn(board)
-    counter += 1 <= iterate a move by 1
+    counter += 1 
   end
 end
